@@ -1,0 +1,149 @@
+
+body{
+    margin: 0;
+
+}
+
+*{font-family: 'Belanosima', sans-serif;
+font-family: 'REM', sans-serif;
+font-family: 'Roboto', sans-serif;}
+
+.contaner{
+    background-color: antiquewhite;
+    padding: 0 15%;
+    overflow: auto;
+
+}
+.h1{
+    color: rgb(0, 0, 0);
+    float: left;
+    line-height: 70px;
+}
+.menu{
+    float: right;
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li {
+    text-decoration: none;
+    display: inline-block;
+    line-height: 70px;
+    padding-top: 15px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: rgb(8, 6, 6);
+    margin: 25px;
+    padding-bottom: 10px;
+}
+.fa-solid1{
+    color: white;
+    font-size: 22px;
+    position: relative;
+    left: -37px;
+    top: 3px;
+}
+.btn{
+    color: white;
+    padding: 15px 45px;
+    font-size: 16px;
+    background-color: rgb(12 148 255 / 88%);
+    border: 1px solid rgb(12 148 255 / 88%);
+    border-radius: 10px;
+}
+.poster{
+    background-color: rgb(26, 26, 89);
+    padding: 0 7%;
+    overflow: auto;
+    color: white;
+    text-align: center;
+    height: 600px;
+}
+.wlc{
+    color: rgb(12 148 255 / 88%);
+    padding-top: 112px;
+    font-size: 18px;
+}
+.sel{
+    font-size: 50px;
+    white-space: pre;
+}
+.pg{
+    white-space: pre;
+}
+.btn1{
+    color: white;
+    padding: 14px 36px;
+    font-size: 16px;
+    background-color: rgb(12 148 255 / 88%);
+    border-radius: 10px;
+}
+.btn2{
+    color: rgb(12 148 255);
+    padding: 14px 36px;
+    font-size: 16px;
+    background-color: rgb(12 148 255 / 0%);
+    border: 1px solid rgb(12 148 255 / 88%);
+    border-radius: 10px;
+}
+.footerbg{
+    background-color: blueviolet;
+}
+.footer{
+    background-color: rgb(26, 26, 89);
+    overflow: auto;
+    
+}
+/* @media {
+    .div33{
+        min-width: 663px; to max-width: 1473px;
+    }
+    
+    
+} */
+.div33{
+    background-color: antiquewhite;
+    padding: 0% 5%;
+    margin: 35px;
+    color: rgb(10, 6, 6);
+    width: 18%;
+    float: left;
+    border-radius: 50px;
+}
+.div33:hover{
+    background-color: rgb(4, 207, 119);
+    transition: 1s;
+}
+.fa-regular{
+    color: white;
+    background-color: rgb(220, 99, 25);
+    margin: 20px;
+    padding: 20px;
+    font-size: 50px;
+    border-radius: 10px;
+}
+.fa-solid2{
+    color: white;
+    background-color: rgb(220, 99, 25);
+    margin: 20px;
+    padding: 20px;
+    font-size: 50px;
+    border-radius: 10px;
+}
+h4{
+    font-size: 25px;
+}
+.divend{
+    background-color: antiquewhite;
+    height: 150px;
+    text-align: center;
+}
+.i1{
+    background-color: rgb(220, 99, 25);
+    font-size: 50px;
+    color: rgb(234, 222, 222);
+    margin: 30px;
+    padding: 20px;
+    border-radius: 10px;
+}
